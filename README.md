@@ -50,4 +50,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megha-syam&show_icons=true&locale=en" alt="Megha Syam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Megha-syam&" alt="Megha Syam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Megha-syam&" alt="Megha Syam" /></p>
